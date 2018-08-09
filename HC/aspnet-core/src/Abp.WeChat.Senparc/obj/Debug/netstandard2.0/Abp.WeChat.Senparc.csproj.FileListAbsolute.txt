@@ -1,0 +1,6 @@
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\bin\Debug\netstandard2.0\Abp.WeChat.Senparc.deps.json
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\bin\Debug\netstandard2.0\Abp.WeChat.Senparc.dll
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\obj\Debug\netstandard2.0\Abp.WeChat.Senparc.csprojAssemblyReference.cache
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\obj\Debug\netstandard2.0\Abp.WeChat.Senparc.csproj.CoreCompileInputs.cache
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\obj\Debug\netstandard2.0\Abp.WeChat.Senparc.AssemblyInfoInputs.cache
+C:\Users\Perha\Desktop\HC\aspnet-core\src\Abp.WeChat.Senparc\obj\Debug\netstandard2.0\Abp.WeChat.Senparc.AssemblyInfo.cs

@@ -1,0 +1,20 @@
+﻿<div class="container">
+    <div class="top">
+        <div class="head">
+
+        </div>
+
+        <div *ngIf="showTenantChange()">
+            <tenant-change></tenant-change>
+        </div>
+
+    </div>
+
+    <router-outlet></router-outlet>
+
+    <br>
+    <global-footer [links]="links">
+
+    </global-footer>
+
+</div>
